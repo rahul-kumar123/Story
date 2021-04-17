@@ -1,1 +1,2 @@
 It is chapter 1
+added new line
